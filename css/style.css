@@ -1,0 +1,33 @@
+/* დაიწყო header */
+
+header {
+    width: 1280px;
+    height: 150px;
+    padding-top: 40px;
+    margin: 0px auto;
+}
+h1{
+    font-size: 70px;
+    color: #36413e;
+    vertical-align: middle;
+    display: inline-block;
+    
+
+}
+nav {
+    display: inline-block;
+    margin-left: 72px;
+    vertical-align: middle;
+    font-size: 18px;
+    color: #7f7f7f;
+}
+
+li {
+    display: inline-block;
+    vertical-align: middle;
+    margin-left: 102px;
+
+}
+.searchl{ margin-left: 181px;
+
+}
