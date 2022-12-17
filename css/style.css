@@ -1,65 +1,132 @@
 /* დაიწყო header */
 
 header {
+    
     width: 1280px;
-    padding-top: 40px;
-    margin: 0px auto;
+    margin: 0 auto;
+    
+   padding-left: 44px;
+   padding-top: 40px;
+   padding-right: 72px;
+   padding-bottom: 55px;
+    vertical-align: middle;
+    
+    
+  
 }
-h1{
+
+
+h1 {
+    width: 376px;
+    display: inline-block;
+    vertical-align: middle;
     font-size: 70px;
     color: #36413e;
-    vertical-align: middle;
-    display: inline-block;
+    font-weight: bold;
+    
     
 
+
 }
+
+
 nav {
     display: inline-block;
-    margin-left: 72px;
     vertical-align: middle;
     font-size: 18px;
-    color: #7f7f7f;
+    
 }
 
 li {
     display: inline-block;
-    vertical-align: middle;
+    
     margin-left: 102px;
 
 }
-.searchl{ margin-left: 181px;
+
+.searchl {
+    margin-left: 181px;
 
 }
+
 /* დაიწყო section */
-section{
+section {
+   
     width: 1280px;
     margin: 0 auto;
     background-color: #306b34;
-    padding-left: 95px;
+    padding-left: 44px;
     padding-top: 174px;
+    padding-right: 72px;
     padding-bottom: 152px;
+    
 }
-.foto{
-    vertical-align: top;
+
+.foto {
+    
     width: 679px;
-    height: 453px;
+    
 }
-.div1{
-    width: 307px;
-    height: 380px;
+
+.div1 {
+    width: 307px; height: 380px;
     display: inline-block;
     vertical-align: top;
     margin-left: 89px;
 
 }
-h2{
+
+h2 {
     font-size: 40px;
     color: #19381f;
     padding-bottom: 60px;
 }
-.text1{
-    
-    font-size: 20px ;
+
+.text1 {
+
+    font-size: 20px;
     color: #f4f4f1;
 
 }
+
+/* დაიწყო article */
+article {
+    margin: 0 auto;
+    text-align: center;
+    width: 1280px;
+    padding-left: 184px;
+    padding-right: 137px;
+    padding-top: 88px;
+}
+
+
+
+.text2{
+    width: 272px;
+    height: 46px;
+    font-size: 40px;
+    font-style: italic;
+    color: #36413e;
+    margin: 0 auto;
+}
+
+
+.text3 {
+    font-size: 20px;
+    color: #7f7f7f;
+    width: 959px;
+    margin: 0 auto;
+    padding-top: 72px;
+    padding-bottom: 69px;
+
+    
+}
+button{
+    width: 148px;
+    height: 48px;
+    color: #ffffff;
+    background-color: #36413e;
+    margin-bottom: 33px;
+}
+
+/* დაიწყო footer */
