@@ -23,7 +23,7 @@ h1 {
     font-size: 70px;
     color: #36413e;
     font-weight: bold;
-    
+    font-family: 'Rubik Gemstones';
     
 
 
@@ -34,14 +34,14 @@ nav {
     display: inline-block;
     vertical-align: middle;
     font-size: 18px;
-    
+    font-family: 'Rubik Gemstones';
 }
 
 li {
     display: inline-block;
     
     margin-left: 102px;
-
+    font-family: 'Rubik Gemstones';
 }
 
 .searchl {
@@ -73,20 +73,21 @@ section {
     display: inline-block;
     vertical-align: top;
     margin-left: 89px;
-
+    font-family: 'Rubik Gemstones';
 }
 
 h2 {
     font-size: 40px;
     color: #19381f;
     padding-bottom: 60px;
+    font-family: 'Rubik Gemstones';
 }
 
 .text1 {
 
     font-size: 20px;
     color: #f4f4f1;
-
+    font-family: 'Rubik Gemstones';
 }
 
 /* დაიწყო article */
@@ -97,6 +98,7 @@ article {
     padding-left: 184px;
     padding-right: 137px;
     padding-top: 88px;
+    
 }
 
 
@@ -108,6 +110,7 @@ article {
     font-style: italic;
     color: #36413e;
     margin: 0 auto;
+    font-family: 'Rubik Gemstones';
 }
 
 
@@ -118,7 +121,7 @@ article {
     margin: 0 auto;
     padding-top: 72px;
     padding-bottom: 69px;
-
+    font-family: 'Rubik Gemstones';
     
 }
 button{
@@ -127,6 +130,31 @@ button{
     color: #ffffff;
     background-color: #36413e;
     margin-bottom: 33px;
+    font-family: 'Rubik Gemstones';
 }
 
 /* დაიწყო footer */
+footer{
+    width: 1280px;
+    height: 68px;
+    margin: 0 auto;
+    background-color: #306b34;
+    
+}
+h5{
+    width: 108px;
+    height: 16px;
+    font-size: 20px;
+    color: #f4f4f1;
+    padding-left:  74px;
+    padding-top: 25px;
+    display: inline-block;
+    font-family: 'Rubik Gemstones';
+}
+span{
+    display: inline-block;
+    padding-left: 724px;
+    color: #f4f4f1;
+    font-size: 12px;
+    font-family: 'Rubik Gemstones';
+}

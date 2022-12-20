@@ -1,0 +1,13 @@
+@font-face {
+    font-family: 'Rubik Gemstones';
+    src: url('../font/RubikGemstones-Regular.eot');
+    src: url('../font/RubikGemstones-Regular.eot?#iefix') format('embedded-opentype'),
+        url('../font/RubikGemstones-Regular.woff2') format('woff2'),
+        url('../font/RubikGemstones-Regular.woff') format('woff'),
+        url('../font/RubikGemstones-Regular.ttf') format('truetype'),
+        url('../font/RubikGemstones-Regular.svg#RubikGemstones-Regular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
